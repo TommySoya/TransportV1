@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.Transport</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.Transport.Ship</node>
+    <node x="0.0" y="303.0">com.Transport.Aircraft</node>
+    <node x="0.0" y="606.0">com.Transport.Submarine</node>
+    <node x="218.0" y="0.0">com.Transport.Bicycle</node>
+    <node x="218.0" y="303.0">com.Transport.Automobile</node>
+    <node x="218.0" y="606.0">com.Transport.Motorcycle</node>
+    <node x="436.0" y="0.0">com.Transport.Airship</node>
+    <node x="436.0" y="303.0">com.Transport.Hovercraft</node>
+    <node x="436.0" y="606.0">com.Transport.HotAirBallon</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7307692307692307" x="304.5" y="432.0" />
+  <SelectedNodes>
+    <node>com.Transport.Ship</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
